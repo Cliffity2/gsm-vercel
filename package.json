@@ -1,0 +1,11 @@
+{
+  "name": "gsm-vercel",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node api/invite.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.48.0"
+  }
+}
